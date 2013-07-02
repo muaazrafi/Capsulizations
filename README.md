@@ -1,0 +1,4 @@
+Capsulizations
+==============
+
+Capsulizations Redmine Plugin.
